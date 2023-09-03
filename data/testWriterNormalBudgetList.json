@@ -1,0 +1,23 @@
+{"budgets": [
+    {
+        "income": [{
+            "itemName": "Income 1",
+            "itemAmount": 234234
+        }],
+        "name": "Budget 1",
+        "freq": false,
+        "expenses": [{
+            "itemName": "An Expense",
+            "itemAmount": 3453.23
+        }]
+    },
+    {
+        "income": [{
+            "itemName": "Income 2",
+            "itemAmount": 123.23
+        }],
+        "name": "Budget 2",
+        "freq": true,
+        "expenses": []
+    }
+]}

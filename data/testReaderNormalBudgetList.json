@@ -1,0 +1,23 @@
+{"budgets": [
+  {
+    "income": [{
+      "itemName": "dfgdsg",
+      "itemAmount": 234234
+    }],
+    "name": "New Budget",
+    "freq": false,
+    "expenses": [{
+      "itemName": "tg54",
+      "itemAmount": 3453.23
+    }]
+  },
+  {
+    "income": [{
+      "itemName": "g43e534g",
+      "itemAmount": 123.23
+    }],
+    "name": "g4tg",
+    "freq": true,
+    "expenses": []
+  }
+]}

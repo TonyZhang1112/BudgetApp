@@ -1,0 +1,52 @@
+{"budgets": [
+    {
+        "income": [
+            {
+                "itemName": "g453g",
+                "itemAmount": 24324.23
+            },
+            {
+                "itemName": "1223f",
+                "itemAmount": 234.12
+            },
+            {
+                "itemName": "34fg",
+                "itemAmount": 213.12
+            },
+            {
+                "itemName": "f34fg",
+                "itemAmount": 23423.23
+            }
+        ],
+        "name": "New Budget",
+        "freq": false,
+        "expenses": [{
+            "itemName": "4g3453g",
+            "itemAmount": 123.12
+        }]
+    },
+    {
+        "income": [],
+        "name": "8f438",
+        "freq": true,
+        "expenses": [{
+            "itemName": "e4r5g45gh",
+            "itemAmount": 342.12
+        }]
+    },
+    {
+        "income": [{
+            "itemName": "gdsfgsd",
+            "itemAmount": 354
+        }],
+        "name": "dfgsdgf",
+        "freq": true,
+        "expenses": []
+    },
+    {
+        "income": [],
+        "name": "dsgdfg",
+        "freq": true,
+        "expenses": []
+    }
+]}
