@@ -1,9 +1,5 @@
 package ui;
 
-//NOTE: Some method inspiration taken from TellerApp
-//      SOURCE: https://github.students.cs.ubc.ca/CPSC210/TellerApp
-
-
 import model.Budget;
 import model.BudgetList;
 import model.Item;
